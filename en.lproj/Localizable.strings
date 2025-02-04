@@ -73,6 +73,7 @@
 "No access" = "No access";
 "Access granted" = "Access granted";
 "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue.";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions.";
 
 "Clipboard" = "Clipboard";
 "Unmute" = "Unmute";
