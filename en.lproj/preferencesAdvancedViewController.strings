@@ -37,3 +37,12 @@
 
 /* Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
 "zBI-tS-TjZ.title" = "Preload previous and next images";
+
+/* Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
+"6Dv-jd-82V.title" = "RAW Render";
+
+/* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
+"GTf-ff-aln.title" = "Prefer macOS engine";
+
+/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+"vCw-yg-L16.title" = "Always use built-in";
