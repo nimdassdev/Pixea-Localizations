@@ -17,8 +17,12 @@
 "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling.";
 "No media" = "No media";
 "No supported media in this folder" = "No supported media in this folder";
-"Are you sure you want to delete this folder?" = "Are you sure you want to delete this folder?";
-"Are you sure you want to delete this file?" = "Are you sure you want to delete this file?";
+"Are you sure you want to move this folder to Trash?" = "Are you sure you want to move this folder to Trash?";
+"Are you sure you want to move this file to Trash?" = "Are you sure you want to move this file to Trash?";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "This folder cannot be moved to Trash. Are you sure you want to delete it permanently?";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "This file cannot be moved to Trash. Are you sure you want to delete it permanently?";
+"\"%@\" will be moved to the Trash." = "\"%@\" will be moved to the Trash.";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" will be deleted immediately. You can’t undo this action.";
 "Move To Trash" = "Move To Trash";
 "Unable to delete '%@'" = "Unable to delete '%@'";
 "Check permissions or try again later." = "Check permissions or try again later.";
