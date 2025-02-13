@@ -24,6 +24,7 @@
 "\"%@\" will be moved to the Trash." = "\"%@\" will be moved to the Trash.";
 "\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" will be deleted immediately. You can’t undo this action.";
 "Move To Trash" = "Move To Trash";
+"Delete" = "Delete";
 "Unable to delete '%@'" = "Unable to delete '%@'";
 "Check permissions or try again later." = "Check permissions or try again later.";
 "Drop your media here" = "Drop your media here";
