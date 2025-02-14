@@ -14,7 +14,7 @@
 
 If you'd like to contribute, pick up a branch and follow contribution guidelines. Help us with translation and receive Pixea Plus subscription or iStatistica Pro license as a bonus.
 
-Localizations in progress: [**German**](https://github.com/imagetasks/Pixea-Localizations/tree/German) (10%), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/Russian) (10%), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/French) (0%), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/Spanish) (0%), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/Italian) (0%).
+Localizations in progress: [**German**](https://github.com/imagetasks/Pixea-Localizations/tree/German) (10%), [**Russian**](https://github.com/imagetasks/Pixea-Localizations/tree/Russian) (75%), [**French**](https://github.com/imagetasks/Pixea-Localizations/tree/French) (0%), [**Spanish**](https://github.com/imagetasks/Pixea-Localizations/tree/Spanish) (0%), [**Italian**](https://github.com/imagetasks/Pixea-Localizations/tree/Italian) (0%).
 
 Found a typo, create an [**issue**](https://github.com/imagetasks/Pixea-Localizations/issues).
 
