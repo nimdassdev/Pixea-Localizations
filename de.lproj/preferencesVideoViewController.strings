@@ -18,19 +18,19 @@
 "N6e-No-A2H.title" = "Previous/next shortcuts";
 
 /* Class = "NSTextFieldCell"; title = "Playback"; ObjectID = "O6z-mI-jl7"; */
-"O6z-mI-jl7.title" = "Playback";
+"O6z-mI-jl7.title" = "Wiedergabe"; //A
 
 /* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "OWj-KS-U6S"; */
 "OWj-KS-U6S.title" = "Always use built-in";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "QJF-Wp-iDt"; */
-"QJF-Wp-iDt.title" = "Box";
+"QJF-Wp-iDt.title" = "Feld"; //A
 
 /* Class = "NSButtonCell"; title = "Show next/previous media"; ObjectID = "TPA-mB-xjp"; */
 "TPA-mB-xjp.title" = "Show next/previous media";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
-"TxO-YS-twQ.title" = "Box";
+"TxO-YS-twQ.title" = "Feld"; //A
 
 /* Class = "NSMenuItem"; title = "x 1.1"; ObjectID = "UFb-bx-xDc"; */
 "UFb-bx-xDc.title" = "x 1.1";
@@ -39,16 +39,16 @@
 "UsA-ZU-Slq.title" = "Swiping left/right";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "cGE-u0-PNl"; */
-"cGE-u0-PNl.title" = "Box";
+"cGE-u0-PNl.title" = "Feld"; //A
 
 /* Class = "NSTextFieldCell"; title = "When video ends"; ObjectID = "dCD-O4-6Kt"; */
 "dCD-O4-6Kt.title" = "When video ends";
 
 /* Class = "NSButtonCell"; title = "Repeat"; ObjectID = "eR3-E3-vOw"; */
-"eR3-E3-vOw.title" = "Repeat";
+"eR3-E3-vOw.title" = "Wiederhole"; //A
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "fCB-IQ-slF"; */
-"fCB-IQ-slF.title" = "Normal";
+"fCB-IQ-slF.title" = "Normal"; //A
 
 /* Class = "NSButtonCell"; title = "Show next media"; ObjectID = "iPN-a7-Gon"; */
 "iPN-a7-Gon.title" = "Show next media";
@@ -60,7 +60,7 @@
 "jkJ-Uo-raR.title" = "Video renderer";
 
 /* Class = "NSButtonCell"; title = "Stop"; ObjectID = "kNR-H1-rTr"; */
-"kNR-H1-rTr.title" = "Stop";
+"kNR-H1-rTr.title" = "Stopp"; //A
 
 /* Class = "NSMenuItem"; title = "x 0.9"; ObjectID = "mgD-hk-Dmy"; */
 "mgD-hk-Dmy.title" = "x 0.9";
@@ -75,7 +75,7 @@
 "pqz-0e-mL8.title" = "Step forward/backward 30s";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "prn-Kr-UHQ"; */
-"prn-Kr-UHQ.title" = "Box";
+"prn-Kr-UHQ.title" = "Feld"; //A
 
 /* Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-vbR"; */
 "ro3-ih-vbR.title" = "Default playback speed";

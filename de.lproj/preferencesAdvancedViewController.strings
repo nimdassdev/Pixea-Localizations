@@ -1,9 +1,9 @@
 
 /* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
-"I3E-ap-nn2.title" = "Linear";
+"I3E-ap-nn2.title" = "Linear"; //A
 
 /* Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
-"IO5-6F-GlQ.title" = "Lanczos";
+"IO5-6F-GlQ.title" = "Lanczos"; //A
 
 /* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
 "OWj-KS-U6S.title" = "Trilinear";
@@ -12,7 +12,7 @@
 "PZJ-ie-aQp.title" = "Clear Cache";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
-"TxO-YS-twQ.title" = "Box";
+"TxO-YS-twQ.title" = "Feld"; //A
 
 /* Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
 "YYM-D8-hhL.title" = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory.";
@@ -21,7 +21,7 @@
 "irp-me-Bao.title" = "Memory and disk cache";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
-"jNe-Nj-BJO.title" = "Box";
+"jNe-Nj-BJO.title" = "Feld"; //A
 
 /* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
 "jkJ-Uo-raR.title" = "Minification filtering";

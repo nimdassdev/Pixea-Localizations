@@ -9,19 +9,19 @@
 "C96-9R-xlJ.title" = "Pixea won't show \"Grant Access\" dialog when opening individual files if this option is unchecked. You will need to open a folder instead of an individual file to enable slideshow and media browsing features.";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dzl-eQ-UQN"; */
-"Dzl-eQ-UQN.title" = "Text Cell";
+"Dzl-eQ-UQN.title" = "Textzelle"; //A
 
 /* Class = "NSTextFieldCell"; title = "Folder"; ObjectID = "GQW-6p-mcS"; */
-"GQW-6p-mcS.title" = "Folder";
+"GQW-6p-mcS.title" = "Ordner"; //A
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "Vjm-4n-4X9"; */
-"Vjm-4n-4X9.title" = "Box";
+"Vjm-4n-4X9.title" = "Feld"; //A
 
 /* Class = "NSButtonCell"; title = "Ask for folder access when opening images"; ObjectID = "cW7-h4-Cgz"; */
 "cW7-h4-Cgz.title" = "Ask for folder access when opening images";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "nBi-vL-aCO"; */
-"nBi-vL-aCO.title" = "Box";
+"nBi-vL-aCO.title" = "Feld"; //A
 
 /* Class = "NSTextFieldCell"; title = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:"; ObjectID = "r28-NY-wGI"; */
 "r28-NY-wGI.title" = "Allow Pixea to look for additional images and videos for the slideshow and quickly browse the following folders:";
@@ -30,4 +30,4 @@
 "sLh-AK-fC7.title" = "Manage Access...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Folder"; ObjectID = "yrv-wp-W9z"; */
-"yrv-wp-W9z.headerCell.title" = "Folder";
+"yrv-wp-W9z.headerCell.title" = "Ordner"; //A

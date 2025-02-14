@@ -8,8 +8,8 @@
 
 "Unable to process image..." = "Unable to process image...";
 "Check avaliable memory and disk space. Try closing other apps and restarting Pixea." = "Check avaliable memory and disk space. Try closing other apps and restarting Pixea.";
-"OK" = "OK";
-"Cancel" = "Cancel";
+"OK" = "OK"; //A
+"Cancel" = "Abbrechen"; //A
 "macOS 11 or higher is required." = "macOS 11 or higher is required.";
 "macOS 10.15 or higher is required." = "macOS 10.15 or higher is required.";
 "Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool.";
@@ -23,14 +23,14 @@
 "This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "This file cannot be moved to Trash. Are you sure you want to delete it permanently?";
 "\"%@\" will be moved to the Trash." = "\"%@\" will be moved to the Trash.";
 "\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" will be deleted immediately. You can’t undo this action.";
-"Move To Trash" = "Move To Trash";
-"Delete" = "Delete";
+"Move To Trash" = "In den Papierkorb bewegen"; //A
+"Delete" = "Löschen"; //A
 "Unable to delete '%@'" = "Unable to delete '%@'";
 "Check permissions or try again later." = "Check permissions or try again later.";
 "Drop your media here" = "Drop your media here";
 "Drop Image/Video file, Folder or Zip-Archive to start" = "Drop Image/Video file, Folder or Zip-Archive to start";
-"Favorites" = "Favorites";
-"Recents" = "Recents";
+"Favorites" = "Favoriten"; //A
+"Recents" = "Kürzlich"; //A
 "Archived Media" = "Archived Media";
 "Media in this Folder" = "Media in this Folder";
 "Subfolders in this Archive" = "Subfolders in this Archive";
@@ -46,7 +46,7 @@
 "No media" = "No media";
 "No supported media in this archive" = "No supported media in this archive";
 "No supported media in this folder" = "No supported media in this folder";
-"Nothing found" = "Nothing found";
+"Nothing found" = "Nichts gefunden"; //A
 "Sorry, no matches found for '%@'" = "Sorry, no matches found for '%@'";
 "Image was edited" = "Image was edited";
 "You can choose to export the edited image, or ignore changes. You can’t undo this action." = "You can choose to export the edited image, or ignore changes. You can’t undo this action.";
@@ -60,18 +60,18 @@
 "Check your Apple Account or try again later." = "Check your Apple Account or try again later.";
 "No applications" = "No applications";
 
-"Preparing..." = "Preparing...";
+"Preparing..." = "Vorbereiten ..."; //A
 "Removing objects..." = "Removing objects...";
 "Processing transparency..." = "Processing transparency...";
 "Upscaling image..." = "Upscaling image...";
-"Loading..." = "Loading...";
-"Stopping..." = "Stopping..."; //Stopping upscaling process
+"Loading..." = "Laden ..."; //A
+"Stopping..." = "Stoppen ..."; //A //Stopping upscaling process
 
 
 "Created: %@" = "Created: %@"; //file created
 "Taken: %@" = "Taken: %@"; //photo taken
 "Resume at %@" = "Resume at %@"; //resume movie at timestamp
-"Frames" = "Frames"; //gif frames
+"Frames" = "Rahmen"; //A //gif frames
 
 
 "Grant Access" = "Grant Access";
@@ -80,23 +80,23 @@
 "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue.";
 "**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions.";
 
-"Clipboard" = "Clipboard";
-"Unmute" = "Unmute";
-"Mute" = "Mute";
+"Clipboard" = "Zwischenablage"; //A
+"Unmute" = "Stummschaltung aufheben"; //A
+"Mute" = "Ton aus"; //A
 "Track %i - [%@]" = "Track %i - [%@]"; //track 1 - [spanish]
 "Track %i" = "Track %i";
 
-"Next" = "Next"; //button on welcome screen
-"Done" = "Done";
+"Next" = "Nächster"; //A //button on welcome screen
+"Done" = "Fertig"; //A
 
-"Small" = "Small";
-"Large" = "Large";
+"Small" = "Klein"; //A
+"Large" = "Groß"; //A
 "Regular" = "Regular";
 
 //touch bar items
 "Open File or Folder..." = "Open File or Folder...";
 "Recent:" = "Recent:";
-"New from Clipboard" = "New from Clipboard";
+"New from Clipboard" = "Neu aus der Zwischenablage"; //A
 
 //shortcuts
 "Scroll Up" = "Scroll Up";
@@ -109,17 +109,17 @@
 "Next Frame/Step Forward 10s" = "Next Frame/Step Forward 10s";
 "Step Backward 30s" = "Step Backward 30s";
 "Step Forward 30s" = "Step Forward 30s";
-"Volume Up" = "Volume Up";
-"Volume Down" = "Volume Down";
-"Mute/Unmute" = "Mute/Unmute";
-"Slideshow" = "Slideshow";
-"Zoom In" = "Zoom In";
-"Zoom Out" = "Zoom Out";
+"Volume Up" = "Lauter"; //A
+"Volume Down" = "Leiser"; //A
+"Mute/Unmute" = "Stumm schalten/Stumm schalten aufheben"; //A
+"Slideshow" = "Diashow"; //A
+"Zoom In" = "Vergrößen"; //A
+"Zoom Out" = "Verkleinern"; //A
 "Fit to Screen" = "Fit to Screen";
 "Stretch to Fit" = "Stretch to Fit";
 "Fill Screen" = "Fill Screen";
 "Toggle Fullscreen" = "Toggle Fullscreen";
-"Actual Size" = "Actual Size";
+"Actual Size" = "Originalgröße"; //A
 "Fixed Size & Position" = "Fixed Size & Position";
 "Playback Speed x 0.5" = "Playback Speed x 0.5";
 "Playback Speed x 0.9" = "Playback Speed x 0.9";
@@ -132,15 +132,15 @@
 "Rotate 90º Counter-clockwise" = "Rotate 90º Counter-clockwise";
 "Upscale Image" = "Upscale Image";
 "Eraser Tool" = "Eraser Tool";
-"Flip Horizontally" = "Flip Horizontally";
-"Flip Vertically" = "Flip Vertically";
+"Flip Horizontally" = "Horizontal spiegeln"; //A
+"Flip Vertically" = "Vertikal spiegeln"; //A
 "Selection Tool" = "Selection Tool";
-"Deselect" = "Deselect";
+"Deselect" = "Abwählen"; //A
 "Show Thumbnails" = "Show Thumbnails";
-"Get Info" = "Get Info";
-"Move to Trash" = "Move to Trash";
-"Show in Finder" = "Show in Finder";
-"Export..." = "Export...";
+"Get Info" = "Informationen"; //A
+"Move to Trash" = "In den Papierkorb bewegen"; //A
+"Show in Finder" = "Im Finder anzeigen"; //A
+"Export..." = "Exportieren..."; //A
 "Crop Image..." = "Crop Image...";
 "Hand Tool" = "Hand Tool";
 "Adjust Hue, Saturation, Brightness..." = "Adjust Hue, Saturation, Brightness...";
@@ -148,7 +148,7 @@
 "Adjust Exposure..." = "Adjust Exposure...";
 "Resize Image..." = "Resize Image...";
 "Sharpness and Noise..." = "Sharpness and Noise...";
-"Clone Tool" = "Clone Tool";
+"Clone Tool" = "Klonen-Werkzeug"; //A
 "Text Selection Tool" = "Text Selection Tool";
 "Edit with: App #1" = "Edit with: App #1";
 "Edit with: App #2" = "Edit with: App #2";
@@ -168,21 +168,21 @@
 "Not set" = "Not set";
 
 // Preferences items
-"Preferences" = "Preferences";
-"General" = "General";
+"Preferences" = "Einstellungen"; //A
+"General" = "Allgemein"; //A
 "Shortcuts" = "Shortcuts";
 "File Types" = "File Types";
-"Video" = "Video";
+"Video" = "Video"; //A
 "Folder Access" = "Folder Access";
-"Advanced" = "Advanced";
+"Advanced" = "Erweitert"; //A
 "More Apps" = "More Apps";
 
 
 // inches, cm/mm, pixels, points per inch, etc...
-"in" = "in";
-"mm" = "mm";
-"cm" = "cm";
-"px" = "px";
+"in" = "in"; //A
+"mm" = "mm"; //A
+"cm" = "cm"; //A
+"px" = "px"; //A
 "%ipx × %ipx" = "%ipx × %ipx";
 "%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
 "%@ bytes" = "%@ bytes";
