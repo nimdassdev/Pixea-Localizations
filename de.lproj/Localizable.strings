@@ -1,0 +1,189 @@
+/* 
+  Localizable.strings
+  Pixea
+
+  Created by Andrey Tsarkov on 04.02.2025.
+  Copyright © 2025 Andrey Tsarkov. All rights reserved.
+*/
+
+"Unable to process image..." = "Unable to process image...";
+"Check avaliable memory and disk space. Try closing other apps and restarting Pixea." = "Check avaliable memory and disk space. Try closing other apps and restarting Pixea.";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"macOS 11 or higher is required." = "macOS 11 or higher is required.";
+"macOS 10.15 or higher is required." = "macOS 10.15 or higher is required.";
+"Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool." = "Object Removal algorithm is based on Machine Learning features first introduced with macOS Big Sur. Update your macOS to use Object Removal tool.";
+"Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool." = "Text Selection is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Text Selection Tool.";
+"Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling." = "Image Upscaling is based on Machine Learning functionality first introduced with macOS Catalina. Update your macOS to use Image Upscaling.";
+"No media" = "No media";
+"No supported media in this folder" = "No supported media in this folder";
+"Are you sure you want to move this folder to Trash?" = "Are you sure you want to move this folder to Trash?";
+"Are you sure you want to move this file to Trash?" = "Are you sure you want to move this file to Trash?";
+"This folder cannot be moved to Trash. Are you sure you want to delete it permanently?" = "This folder cannot be moved to Trash. Are you sure you want to delete it permanently?";
+"This file cannot be moved to Trash. Are you sure you want to delete it permanently?" = "This file cannot be moved to Trash. Are you sure you want to delete it permanently?";
+"\"%@\" will be moved to the Trash." = "\"%@\" will be moved to the Trash.";
+"\"%@\" will be deleted immediately. You can’t undo this action." = "\"%@\" will be deleted immediately. You can’t undo this action.";
+"Move To Trash" = "Move To Trash";
+"Delete" = "Delete";
+"Unable to delete '%@'" = "Unable to delete '%@'";
+"Check permissions or try again later." = "Check permissions or try again later.";
+"Drop your media here" = "Drop your media here";
+"Drop Image/Video file, Folder or Zip-Archive to start" = "Drop Image/Video file, Folder or Zip-Archive to start";
+"Favorites" = "Favorites";
+"Recents" = "Recents";
+"Archived Media" = "Archived Media";
+"Media in this Folder" = "Media in this Folder";
+"Subfolders in this Archive" = "Subfolders in this Archive";
+"Subfolders and Archives" = "Subfolders and Archives";
+"Images: %lu" = "Images: %lu";
+"Images: %lu, Videos: %lu" = "Images: %lu, Videos: %lu";
+"Folders: %lu" = "Folders: %lu";
+"Folders: %lu, Archives: %lu" = "Folders: %lu, Archives: %lu";
+"Can't open" = "Can't open";
+"Unable to open this image file" = "Unable to open this image file";
+"Unable to open this video file" = "Unable to open this video file";
+"Unable to open this archive" = "Unable to open this archive";
+"No media" = "No media";
+"No supported media in this archive" = "No supported media in this archive";
+"No supported media in this folder" = "No supported media in this folder";
+"Nothing found" = "Nothing found";
+"Sorry, no matches found for '%@'" = "Sorry, no matches found for '%@'";
+"Image was edited" = "Image was edited";
+"You can choose to export the edited image, or ignore changes. You can’t undo this action." = "You can choose to export the edited image, or ignore changes. You can’t undo this action.";
+"Export Image..." = "Export Image...";
+"Export Image" = "Export Image";
+"Best" = "Best"; //export jpeg quality
+"Lossless" = "Lossless";
+"Ignore Changes" = "Ignore Changes";
+"Unable to process image..." = "Unable to process image...";
+"Unable to find your purchase..." = "Unable to find your purchase...";
+"Check your Apple Account or try again later." = "Check your Apple Account or try again later.";
+"No applications" = "No applications";
+
+"Preparing..." = "Preparing...";
+"Removing objects..." = "Removing objects...";
+"Processing transparency..." = "Processing transparency...";
+"Upscaling image..." = "Upscaling image...";
+"Loading..." = "Loading...";
+"Stopping..." = "Stopping..."; //Stopping upscaling process
+
+
+"Created: %@" = "Created: %@"; //file created
+"Taken: %@" = "Taken: %@"; //photo taken
+"Resume at %@" = "Resume at %@"; //resume movie at timestamp
+"Frames" = "Frames"; //gif frames
+
+
+"Grant Access" = "Grant Access";
+"No access" = "No access";
+"Access granted" = "Access granted";
+"Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue.";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions.";
+
+"Clipboard" = "Clipboard";
+"Unmute" = "Unmute";
+"Mute" = "Mute";
+"Track %i - [%@]" = "Track %i - [%@]"; //track 1 - [spanish]
+"Track %i" = "Track %i";
+
+"Next" = "Next"; //button on welcome screen
+"Done" = "Done";
+
+"Small" = "Small";
+"Large" = "Large";
+"Regular" = "Regular";
+
+//touch bar items
+"Open File or Folder..." = "Open File or Folder...";
+"Recent:" = "Recent:";
+"New from Clipboard" = "New from Clipboard";
+
+//shortcuts
+"Scroll Up" = "Scroll Up";
+"Scroll Down" = "Scroll Down";
+"Scroll Left" = "Scroll Left";
+"Scroll Right" = "Scroll Right";
+"Previous Media" = "Previous Media";
+"Next Media" = "Next Media";
+"Previous Frame/Step Backward 10s" = "Previous Frame/Step Backward 10s";
+"Next Frame/Step Forward 10s" = "Next Frame/Step Forward 10s";
+"Step Backward 30s" = "Step Backward 30s";
+"Step Forward 30s" = "Step Forward 30s";
+"Volume Up" = "Volume Up";
+"Volume Down" = "Volume Down";
+"Mute/Unmute" = "Mute/Unmute";
+"Slideshow" = "Slideshow";
+"Zoom In" = "Zoom In";
+"Zoom Out" = "Zoom Out";
+"Fit to Screen" = "Fit to Screen";
+"Stretch to Fit" = "Stretch to Fit";
+"Fill Screen" = "Fill Screen";
+"Toggle Fullscreen" = "Toggle Fullscreen";
+"Actual Size" = "Actual Size";
+"Fixed Size & Position" = "Fixed Size & Position";
+"Playback Speed x 0.5" = "Playback Speed x 0.5";
+"Playback Speed x 0.9" = "Playback Speed x 0.9";
+"Playback Speed Normal" = "Playback Speed Normal";
+"Playback Speed x 1.1" = "Playback Speed x 1.1";
+"Playback Speed x 1.5" = "Playback Speed x 1.5";
+"Playback Speed x 2.0" = "Playback Speed x 2.0";
+"Rotate 180º" = "Rotate 180º";
+"Rotate 90º Clockwise" = "Rotate 90º Clockwise";
+"Rotate 90º Counter-clockwise" = "Rotate 90º Counter-clockwise";
+"Upscale Image" = "Upscale Image";
+"Eraser Tool" = "Eraser Tool";
+"Flip Horizontally" = "Flip Horizontally";
+"Flip Vertically" = "Flip Vertically";
+"Selection Tool" = "Selection Tool";
+"Deselect" = "Deselect";
+"Show Thumbnails" = "Show Thumbnails";
+"Get Info" = "Get Info";
+"Move to Trash" = "Move to Trash";
+"Show in Finder" = "Show in Finder";
+"Export..." = "Export...";
+"Crop Image..." = "Crop Image...";
+"Hand Tool" = "Hand Tool";
+"Adjust Hue, Saturation, Brightness..." = "Adjust Hue, Saturation, Brightness...";
+"Adjust Color Temperature..." = "Adjust Color Temperature...";
+"Adjust Exposure..." = "Adjust Exposure...";
+"Resize Image..." = "Resize Image...";
+"Sharpness and Noise..." = "Sharpness and Noise...";
+"Clone Tool" = "Clone Tool";
+"Text Selection Tool" = "Text Selection Tool";
+"Edit with: App #1" = "Edit with: App #1";
+"Edit with: App #2" = "Edit with: App #2";
+"Edit with: App #3" = "Edit with: App #3";
+"Edit with: App #4" = "Edit with: App #4";
+"Edit with: App #5" = "Edit with: App #5";
+"Step Forward 10s" = "Step Forward 10s";
+"Step Backward 10s" = "Step Backward 10s";
+"Step Forward 30s" = "Step Forward 30s";
+"Step Backward 30s" = "Step Backward 30s";
+"Hide Thumbnails" = "Hide Thumbnails";
+"Show Thumbnails" = "Show Thumbnails";
+"Next Frame" = "Next Frame";
+"Previous Frame" = "Previous Frame";
+"Next Media" = "Next Media";
+"Previous Media" = "Previous Media";
+"Not set" = "Not set";
+
+// Preferences items
+"Preferences" = "Preferences";
+"General" = "General";
+"Shortcuts" = "Shortcuts";
+"File Types" = "File Types";
+"Video" = "Video";
+"Folder Access" = "Folder Access";
+"Advanced" = "Advanced";
+"More Apps" = "More Apps";
+
+
+// inches, cm/mm, pixels, points per inch, etc...
+"in" = "in";
+"mm" = "mm";
+"cm" = "cm";
+"px" = "px";
+"%ipx × %ipx" = "%ipx × %ipx";
+"%ipx × %ipx (%ippi)" = "%ipx × %ipx (%ippi)";
+"%@ bytes" = "%@ bytes";
+"%li sec" = "%li sec";
