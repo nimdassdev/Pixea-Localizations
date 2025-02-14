@@ -78,7 +78,7 @@
 "No access" = "Нет доступа";
 "Access granted" = "Доступ предоставлен";
 "Pixea needs write permissions to delete '%@'. Click \"Grant Access\" to continue." = "Pixea нужны права на запись для удаления '%@'. Нажмите \"Предоставить доступ\", чтобы продолжить.";
-"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**ПРОБЕЛ** зарезервирован для действий \"**Удерживайте пробел и перетащите для прокрутки**\" и \"**Воспроизвести / Приостановить видео**\". **Z** и **⌥Z** зарезервированы для действий \"**Увеличить**\" / \"**Уменьшить**\".";
+"**SPACE** is reserved for \"**Hold Spacebar and Drag to Scroll**\" and \"**Play / Pause Video**\" actions. **Z** and **⌥Z** are reserved for \"**Zoom In**\" / \"**Zoom Out**\" actions." = "**ПРОБЕЛ** зарезервирован для действий \"**Удерживайте пробел + перетаскивайте**\" и \"**Воспроизвести / Приостановить видео**\". **Z** и **⌥Z** зарезервированы для действий \"**Увеличить**\" / \"**Уменьшить**\".";
 
 "Clipboard" = "Буфер обмена";
 "Unmute" = "Вкл. звук";
@@ -158,7 +158,7 @@
 "Step Forward 10s" = "Вперед на 10с";
 "Step Backward 10s" = "Назад на 10с";
 "Step Forward 30s" = "Вперед на 30с";
-"Step Backward 30s" = "Назад на 30s";
+"Step Backward 30s" = "Назад на 30c";
 "Hide Thumbnails" = "Скрыть миниатюры";
 "Show Thumbnails" = "Показать миниатюры";
 "Next Frame" = "Следующий кадр";
