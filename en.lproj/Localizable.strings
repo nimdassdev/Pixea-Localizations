@@ -66,7 +66,7 @@
 "Upscaling image..." = "Upscaling image...";
 "Loading..." = "Loading...";
 "Stopping..." = "Stopping..."; //Stopping upscaling process
-
+"Processing '%@'..." = "Processing '%@'..."; //Saving file
 
 "Created: %@" = "Created: %@"; //file created
 "Taken: %@" = "Taken: %@"; //photo taken
