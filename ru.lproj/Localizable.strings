@@ -66,6 +66,7 @@
 "Upscaling image..." = "Апсекейлинг изображения...";
 "Loading..." = "Загрузка...";
 "Stopping..." = "Отмена..."; //Stopping upscaling process
+"Processing '%@'..." = "Обработка '%@'..."; //Saving file
 
 
 "Created: %@" = "Создан: %@"; //file created
