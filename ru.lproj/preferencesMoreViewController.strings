@@ -3,13 +3,13 @@
 "BKB-yi-LiR.title" = "Essential Desktop widgets.";
 
 /* Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
-"Bvm-QD-MzC.title" = "GET";
+"Bvm-QD-MzC.title" = "Скачать";
 
 /* Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
 "Cpw-a2-M5n.title" = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart.";
 
 /* Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
-"Qpq-8e-lOf.title" = "GET";
+"Qpq-8e-lOf.title" = "Скачать";
 
 /* Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
 "Uhv-vK-A7J.title" = "System Monitor. Reinvented.";
