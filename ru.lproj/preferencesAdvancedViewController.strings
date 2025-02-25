@@ -1,0 +1,48 @@
+
+/* Class = "NSButtonCell"; title = "Linear"; ObjectID = "I3E-ap-nn2"; */
+"I3E-ap-nn2.title" = "Линейная"; //A
+
+/* Class = "NSButtonCell"; title = "Lanczos"; ObjectID = "IO5-6F-GlQ"; */
+"IO5-6F-GlQ.title" = "Метод Ланцоша"; //A
+
+/* Class = "NSButtonCell"; title = "Trilinear"; ObjectID = "OWj-KS-U6S"; */
+"OWj-KS-U6S.title" = "Трилинейная";
+
+/* Class = "NSButtonCell"; title = "Clear Cache"; ObjectID = "PZJ-ie-aQp"; */
+"PZJ-ie-aQp.title" = "Очистить кэш"; //A
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TxO-YS-twQ"; */
+"TxO-YS-twQ.title" = "Ящик"; //A
+
+/* Class = "NSTextFieldCell"; title = "Preloading of previous and next images offers instant switching but requires higher RAM usage. Uncheck this option if your computer is low on memory."; ObjectID = "YYM-D8-hhL"; */
+"YYM-D8-hhL.title" = "Предварительная загрузка предыдущих и следующих изображений обеспечивает мгновенное переключение, но требует большего использования оперативной памяти. Снимите этот флажок, если на вашем компьютере мало памяти.";
+
+/* Class = "NSTextFieldCell"; title = "Memory and disk cache"; ObjectID = "irp-me-Bao"; */
+"irp-me-Bao.title" = "Память и кэш изображений";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "jNe-Nj-BJO"; */
+"jNe-Nj-BJO.title" = "Ящик"; //A
+
+/* Class = "NSTextFieldCell"; title = "Minification filtering"; ObjectID = "jkJ-Uo-raR"; */
+"jkJ-Uo-raR.title" = "Фильтрация";
+
+/* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
+"p97-VP-ELd.title" = "PLUS";
+
+/* Class = "NSButtonCell"; title = "Cache thumbnails"; ObjectID = "s1J-IY-0lH"; */
+"s1J-IY-0lH.title" = "Кэшировать миниатюры";
+
+/* Class = "NSTextFieldCell"; title = "Zero KB"; ObjectID = "x9U-hd-fpM"; */
+"x9U-hd-fpM.title" = "0 КБ";
+
+/* Class = "NSButtonCell"; title = "Preload previous and next images"; ObjectID = "zBI-tS-TjZ"; */
+"zBI-tS-TjZ.title" = "Предварительная загрузка предыдущих и следующих изображений";
+
+/* Class = "NSTextFieldCell"; title = "RAW Render"; ObjectID = "6Dv-jd-82V"; */
+"6Dv-jd-82V.title" = "RAW-рендер";
+
+/* Class = "NSButtonCell"; title = "Prefer macOS engine"; ObjectID = "GTf-ff-aln"; */
+"GTf-ff-aln.title" = "Предпочитать встроенный в macOS";
+
+/* Class = "NSButtonCell"; title = "Always use built-in"; ObjectID = "vCw-yg-L16"; */
+"vCw-yg-L16.title" = "Всегда использовать встроенный";

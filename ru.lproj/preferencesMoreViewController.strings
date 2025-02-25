@@ -1,0 +1,24 @@
+
+/* Class = "NSTextFieldCell"; title = "Essential Desktop widgets."; ObjectID = "BKB-yi-LiR"; */
+"BKB-yi-LiR.title" = "Незаменимые виджеты рабочего стола.";
+
+/* Class = "NSButtonCell"; title = "GET"; ObjectID = "Bvm-QD-MzC"; */
+"Bvm-QD-MzC.title" = "Скачать";
+
+/* Class = "NSTextFieldCell"; title = "iStatistica Pro is an advanced system monitor for macOS.\nOverview of your battery statistics, realtime information about CPU, GPU, RAM usage, and much much more. iStatistica Pro also displays realtime network stats: external, gateway, and local IPs, speed, and data rates chart."; ObjectID = "Cpw-a2-M5n"; */
+"Cpw-a2-M5n.title" = "iStatistica Pro — это расширенный системный монитор для macOS.\nОбзор статистики батареи, информация в реальном времени о CPU, GPU, использовании RAM и многое другое. iStatistica Pro также отображает информация о сети в реальном времени: внешние, шлюзовые и локальные IP-адреса, скорость и диаграмму скоростей передачи данных.";
+
+/* Class = "NSButtonCell"; title = "GET"; ObjectID = "Qpq-8e-lOf"; */
+"Qpq-8e-lOf.title" = "Скачать";
+
+/* Class = "NSTextFieldCell"; title = "System Monitor. Reinvented."; ObjectID = "Uhv-vK-A7J"; */
+"Uhv-vK-A7J.title" = "Системный монитор. Расширенный и переосмысленный.";
+
+/* Class = "NSTextFieldCell"; title = "Personalize your Desktop with Lockera widgets. Keep track of essential information.\nLockera widgets:\nStorage, Year Progress, On this Day, Days Left, Calendar, Data Usage, \nWi-Fi data usage, Days Passed, and Birthdays."; ObjectID = "arx-LP-oVu"; */
+"arx-LP-oVu.title" = "Персонализируйте свой рабочий стол с помощью виджетов Lockera. Отслеживайте важную информацию.\nВиджеты Lockera:\nХранилище, Прогресс за год, В этот день, Осталось дней, Календарь, Использование данных, \nИспользование данных Wi-Fi, Прошедшие дни и Дни рождения.";
+
+/* Class = "NSButtonCell"; title = "Lockera Widgets"; ObjectID = "ulv-pe-DW8"; */
+"ulv-pe-DW8.title" = "Видежеты Lockera";
+
+/* Class = "NSButtonCell"; title = "iStatistica Pro"; ObjectID = "wvu-eL-Cug"; */
+"wvu-eL-Cug.title" = "iStatistica Pro";
