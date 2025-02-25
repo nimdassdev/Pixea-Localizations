@@ -7,7 +7,7 @@
 */
 
 "Unable to process image..." = "Bild kann nicht verarbeitet werden...";
-"Check avaliable memory and disk space. Try closing other apps and restarting Pixea." = "Überprüfen Sie den verfügbaren Arbeitsspeicher und Speicherplatz. Versuchen Sie, andere Apps zu schließen und Pixea neu zu starten.";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Überprüfen Sie den verfügbaren Arbeitsspeicher und Speicherplatz. Versuchen Sie, andere Apps zu schließen und Pixea neu zu starten.";
 "OK" = "OK";
 "Cancel" = "Abbrechen";
 "macOS 11 or higher is required." = "macOS 11 oder höher ist erforderlich.";
