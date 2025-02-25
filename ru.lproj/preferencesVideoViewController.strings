@@ -48,7 +48,7 @@
 "eR3-E3-vOw.title" = "Повторить";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "fCB-IQ-slF"; */
-"fCB-IQ-slF.title" = "Нормальный";
+"fCB-IQ-slF.title" = "Нормальная";
 
 /* Class = "NSButtonCell"; title = "Show next media"; ObjectID = "iPN-a7-Gon"; */
 "iPN-a7-Gon.title" = "Показать следующий медиафайл";
@@ -66,7 +66,7 @@
 "mgD-hk-Dmy.title" = "x 0.9";
 
 /* Class = "NSButtonCell"; title = "Remember playback position"; ObjectID = "oGQ-pN-Jnb"; */
-"oGQ-pN-Jnb.title" = "Запомнить время, на котором остановили воспроизведение";
+"oGQ-pN-Jnb.title" = "Запомнить время остановки";
 
 /* Class = "NSButtonCell"; title = "PLUS"; ObjectID = "p97-VP-ELd"; */
 "p97-VP-ELd.title" = "PLUS";
@@ -78,4 +78,4 @@
 "prn-Kr-UHQ.title" = "Ящик"; //A
 
 /* Class = "NSTextFieldCell"; title = "Default playback speed"; ObjectID = "ro3-ih-vbR"; */
-"ro3-ih-vbR.title" = "Скорость воспроизведения по умолчанию";
+"ro3-ih-vbR.title" = "Скорость воспроизведения";

@@ -24,10 +24,10 @@
 "91x-64-bJ9.title" = "Поинты";
 
 /* Class = "NSButtonCell"; title = "Date added"; ObjectID = "Cic-3u-pg5"; */
-"Cic-3u-pg5.title" = "Дата добавления";
+"Cic-3u-pg5.title" = "Дате добавления";
 
 /* Class = "NSButtonCell"; title = "Date modified"; ObjectID = "CzN-fp-7TW"; */
-"CzN-fp-7TW.title" = "Дата изменения";
+"CzN-fp-7TW.title" = "Дате изменения";
 
 /* Class = "NSTextFieldCell"; title = "Stretch to Fit"; ObjectID = "EER-jc-phA"; */
 "EER-jc-phA.title" = "Растянуть до размера экрана";
@@ -57,7 +57,7 @@
 "P6g-Y3-rh2.title" = "PLUS";
 
 /* Class = "NSButtonCell"; title = "Always ask to save changes"; ObjectID = "QJA-jW-OZO"; */
-"QJA-jW-OZO.title" = "Всегда спрашивать сохранение изменений";
+"QJA-jW-OZO.title" = "Всегда запрашивать сохранение";
 
 /* Class = "NSButtonCell"; title = "Use existing window for the same folder"; ObjectID = "Sc4-2j-8ms"; */
 "Sc4-2j-8ms.title" = "Использовать существующее окно для той же папки";
@@ -105,7 +105,7 @@
 "lmr-B1-vI2.title" = "Недавно окрытые элементы";
 
 /* Class = "NSTextFieldCell"; title = "Editing images"; ObjectID = "m2J-xa-kiP"; */
-"m2J-xa-kiP.title" = "Редактирование изображений";
+"m2J-xa-kiP.title" = "Редактирование";
 
 /* Class = "NSTextFieldCell"; title = "If this option is selected, Pixea will sort the contents based on the preferences set in your file system. By default, this option applies to subfolders only, as the sort information for any folder is stored in its parent's attributes. If you want to apply automatic sorting to your root folder, grant permission to access its parent."; ObjectID = "mw4-Oi-R2y"; */
 "mw4-Oi-R2y.title" = "Если выбран этот параметр, Pixea будет сортировать содержимое на основе настроек, установленных в вашей файловой системе. По умолчанию этот параметр применяется только к подпапкам, поскольку информация о сортировке для любой папки хранится в атрибутах ее родительской папки. Если вы хотите применить автоматическую сортировку к своей корневой папке, предоставьте разрешение на доступ к ее родительской папке.";
@@ -120,7 +120,7 @@
 "rba-Lk-QXc.title" = "Окно"; //A
 
 /* Class = "NSTextFieldCell"; title = "Fixed Size and Position"; ObjectID = "yYH-QK-MpA"; */
-"yYH-QK-MpA.title" = "Фиксированный размер и положение";
+"yYH-QK-MpA.title" = "Фикс. размер и положение";
 
 /* Class = "NSTextFieldCell"; title = "Actual Size"; ObjectID = "ysg-55-8kg"; */
 "ysg-55-8kg.title" = "Реальный размер";

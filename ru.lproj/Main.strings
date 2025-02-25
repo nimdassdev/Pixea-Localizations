@@ -60,7 +60,7 @@
 "2oX-Rh-0jJ.title" = "Увеличить";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "32b-FF-Kjb"; */
-"32b-FF-Kjb.title" = "По дате добавления";
+"32b-FF-Kjb.title" = "Дата добавления";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "36w-gH-8GU"; */
 "36w-gH-8GU.title" = "Ящик";
@@ -258,7 +258,7 @@
 "CxA-b3-Alp.title" = "Имя";
 
 /* Class = "NSTextFieldCell"; title = "Hold Spacebar + Drag"; ObjectID = "D3w-IU-Fry"; */
-"D3w-IU-Fry.title" = "Удерживайте пробел + перетаскивайте";
+"D3w-IU-Fry.title" = "Пробел + перетаскивайте";
 
 /* Class = "NSTextFieldCell"; title = "Contrast"; ObjectID = "D5D-oq-By8"; */
 "D5D-oq-By8.title" = "Контрастность";
@@ -477,7 +477,7 @@
 "MSf-lC-bwD.title" = "Режим апскейлинга:";
 
 /* Class = "NSButtonCell"; title = "Restore Purchase"; ObjectID = "MTs-b0-J0U"; */
-"MTs-b0-J0U.title" = "Восстановить покупки";
+"MTs-b0-J0U.title" = "Восстановить покупку";
 
 /* Class = "NSTextFieldCell"; title = "Thumbnails Panel"; ObjectID = "MeO-5Y-RDK"; */
 "MeO-5Y-RDK.title" = "Панель миниатюр";
@@ -546,10 +546,10 @@
 "QdW-qF-iHJ.title" = "Размер файла"; //A
 
 /* Class = "NSTextFieldCell"; title = "Object Removal Tool"; ObjectID = "QgE-5c-QK1"; */
-"QgE-5c-QK1.title" = "Инструмент «Удаление объектов»";
+"QgE-5c-QK1.title" = "Удаление объектов";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "QhC-BY-ca2"; */
-"QhC-BY-ca2.title" = "По дате добавления";
+"QhC-BY-ca2.title" = "Дата добавления";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
 "R4o-n2-Eq4.title" = "Изменить масштаб";
@@ -666,7 +666,7 @@
 "WDs-a0-atr.title" = "Назад на 30с";
 
 /* Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "WMu-6w-ljA"; */
-"WMu-6w-ljA.title" = "Инструмент выделения текста";
+"WMu-6w-ljA.title" = "Инструмент «Выделение текста»";
 
 /* Class = "NSComboBoxCell"; WMy-oE-Lpx.ibShadowedObjectValues[0] = "px"; ObjectID = "WMy-oE-Lpx"; */
 "WMy-oE-Lpx.ibShadowedObjectValues[0]" = "пикс";
@@ -777,7 +777,7 @@
 "aVN-Uu-M5E.placeholderString" = "Поиск...";
 
 /* Class = "NSTextFieldCell"; title = "Enjoy more options, customizations and tools with Pixea Plus"; ObjectID = "ag2-Mk-Mk5"; */
-"ag2-Mk-Mk5.title" = "Наслаждайтесь большим количеством настроек и инструментов с Pixea Plus";
+"ag2-Mk-Mk5.title" = "Большое количество настроек и инструментов с Pixea Plus";
 
 /* Class = "NSBox"; title = "Box"; ObjectID = "ahk-LR-VQg"; */
 "ahk-LR-VQg.title" = "Ящик";
@@ -789,7 +789,7 @@
 "aoB-08-d9h.title" = "пикс/дюйм";
 
 /* Class = "NSTextFieldCell"; title = "Sharpness and Noise Tool"; ObjectID = "atA-H4-4x6"; */
-"atA-H4-4x6.title" = "Резкость и подавление шума...";
+"atA-H4-4x6.title" = "Резкость и подавление шума";
 
 /* Class = "NSTextFieldCell"; title = "Saturation"; ObjectID = "av3-wV-Pvf"; */
 "av3-wV-Pvf.title" = "Насыщенность";
@@ -900,10 +900,10 @@
 "fgN-Um-vwx.title" = "Режим масштабирования";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "fkN-Le-d3B"; */
-"fkN-Le-d3B.title" = "По дате добавления";
+"fkN-Le-d3B.title" = "Дата добавления";
 
 /* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "flJ-r8-ygY"; */
-"flJ-r8-ygY.title" = "По дате добавления";
+"flJ-r8-ygY.title" = "Дата добавления";
 
 /* Class = "NSMenu"; title = "Sort by"; ObjectID = "fr3-ur-dtG"; */
 "fr3-ur-dtG.title" = "Сортировать";
@@ -1128,7 +1128,7 @@
 "oWw-Fi-1bg.title" = "Видео";
 
 /* Class = "NSMenuItem"; title = "Text Selection Tool"; ObjectID = "oYX-DN-eTA"; */
-"oYX-DN-eTA.title" = "Инструмент выделения текста";
+"oYX-DN-eTA.title" = "Инструмент «Выделение текста»";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
 "oas-Oc-fiZ.title" = "Открыть недавние";
@@ -1347,7 +1347,7 @@
 "y80-Fq-GXL.title" = "Отмена";
 
 /* Class = "NSTextFieldCell"; title = "Clone Tool"; ObjectID = "y8Z-8y-taq"; */
-"y8Z-8y-taq.title" = "Инструмент «Клонирование»";
+"y8Z-8y-taq.title" = "Клонирование";
 
 /* Class = "NSButtonCell"; title = "Upscale"; ObjectID = "yAy-eZ-7vK"; */
 "yAy-eZ-7vK.title" = "Увеличить";
@@ -1383,7 +1383,7 @@
 "zLZ-LC-aXe.title" = "Разрешите Pixea искать дополнительные изображения и видео для слайд-шоу и быстро просматривать следующие папки:";
 
 /* Class = "NSTextFieldCell"; title = "Four times double the pixels using ML-powered algorithms"; ObjectID = "zRl-BO-RJ0"; */
-"zRl-BO-RJ0.title" = "Четырехкратное увеличение количества пикселей с помощью алгоритмов на базе машинного обучения";
+"zRl-BO-RJ0.title" = "4х увеличение количества пикселей с помощью алгоритмов AI";
 
 /* Class = "NSTextFieldCell"; title = "Super Resolution"; ObjectID = "zd4-VX-VWV"; */
 "zd4-VX-VWV.title" = "Супер-разрешение";

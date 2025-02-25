@@ -21,4 +21,4 @@
 "wqY-nK-Suo.title" = "Ящик"; //A
 
 /* Class = "NSButtonCell"; title = "Swipe left/right to show previous/next image"; ObjectID = "xDv-OG-qlV"; */
-"xDv-OG-qlV.title" = "Свайп влево/вправо, чтобы показать предыдущее/следующее изображение";
+"xDv-OG-qlV.title" = "Свайп влево/вправо — показать предыдущий/следующий медиафайл";
