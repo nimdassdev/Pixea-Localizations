@@ -7,7 +7,7 @@
 */
 
 "Unable to process image..." = "Unable to process image...";
-"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Check available memory and disk space. Try closing other apps and restarting Pixea.";
+"Check available memory and disk space. Try closing other apps and restarting Pixea." = "Проверете наличната памет и дисковото пространство. Опитайте да затворите други приложения и да рестартирате Pixea.";
 "OK" = "OK";
 "Cancel" = "Cancel";
 "macOS 11 or higher is required." = "macOS 11 or higher is required.";
